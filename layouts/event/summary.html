@@ -45,6 +45,7 @@
       {{ else }}
         {{ .Summary }}
       {{ end }}
+      <a href="{{ .Permalink }}">[mehr... ]</a>
       <p>
         <a href="{{ .Permalink }}" class="postShorten-excerpt_link link">{{ i18n "post.read_more" }}</a>
         {{ with .Params.readingtime }}
