@@ -1,0 +1,22 @@
+{{ if not (eq .Params.showMeta false) }}
+  <div class="postShorten-meta post-meta">
+    {{ if not (eq .Params.showDate false)  }}
+      
+    {{ end }}
+    {{ partial "post/category.html" . }}
+    <table class="eventData">
+        <tr><td>Datum: </td><td>
+            {{ dateFormat "02.01.2006" ($.Param "eventDateStart") }}
+            {{ if not (eq ($.Param "eventDateStart") ($.Param "eventDateEnd"))  }}
+              - {{ dateFormat "02.01.2006" ($.Param "eventDateEnd") }}
+            {{ end }}
+        </td></tr>
+        {{ if not (eq "-" ($.Param "eventTime"))  }}
+        <tr><td>Uhrzeit: </td><td>{{ $.Param "eventTime" }}</td></tr>
+        {{ end }}
+        {{ if not (eq "-" ($.Param "eventPlace"))  }}
+        <tr><td>Ort: </td><td>{{ $.Param "eventPlace" }}</td></tr>
+        {{ end }}
+    </table>
+  </div>
+{{ end }}
