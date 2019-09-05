@@ -98,7 +98,7 @@ canonifyurls = true
   identifier = "whatsapp"
   name = "WhatsApp"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-whatsapp\"></i>"
-  url = "https://chat.whatsapp.com/FommU7MGvDOIGRDN51MQsA"
+  url = "https://chat.whatsapp.com/Hk9IIotILXL7RG8tNBOLFO"
 
 [[menu.links]]
   weight = 5

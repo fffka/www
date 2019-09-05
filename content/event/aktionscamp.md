@@ -8,3 +8,4 @@ eventTime: "-"
 eventPlace: "-"
 summary: "Im Anschluss an die Demo findet ein FFF Aktionscamp statt. Mehr Informationen demnächst!"
 ---
+Im Anschluss an die Demo findet ein FFF Aktionscamp statt. Mehr Informationen demnächst!
