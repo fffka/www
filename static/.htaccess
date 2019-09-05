@@ -1,0 +1,20 @@
+Redirect /4grad https://youtu.be/VOQArPuEWU0?t=1331
+Redirect /sommer https://youtu.be/VOQArPuEWU0?t=1644
+Redirect /wetter https://youtu.be/VOQArPuEWU0?t=1750
+Redirect /actnow https://youtu.be/VOQArPuEWU0?t=2825
+Redirect /krise https://youtu.be/VOQArPuEWU0?t=3073
+
+Redirect /kalender https://cloud.fffka.de/index.php/apps/calendar/p/JdN9g6wLEFFz573X/ffentliche-Termine
+
+Redirect /intern/2009 https://docs.google.com/spreadsheets/d/1yxENV7mLwAX7oP5PrdqzRva3LJW0-8p3Wo2G3t93G-g/edit?usp=sharing
+
+RewriteEngine on
+
+#
+# die Datei liegt im Verzeichnis /abc/def
+# erreichbar ist dieses Verzeichnis aber über /xyz
+# bspw. weil in der httpd.conf folgendes gesetzt wurde:
+# Alias /xyz /abc/def
+#
+
+RewriteRule    ^forderungen/?$    Forderungen.pdf    [NC,L]
