@@ -91,7 +91,7 @@ canonifyurls = true
   identifier = "facebook"
   name = "Facebook"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-facebook\"></i>"
-  url = "https://www.facebook.com/Fridays-for-Future-Karlsruhe-217186979113457"
+  url = "https://www.facebook.com/fridaysforfuture.ka"
 
 [[menu.links]]
   weight = 4
