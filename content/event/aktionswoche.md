@@ -10,9 +10,9 @@ summary: "Vom **20.09.19** bis zum **27.09.19** findet wie (wie in anderen viele
 ---
 Datum       |       Uhrzeit         |       Ort         |       Veranstaltung
 ------------|-----------------------|-------------------|---------------------------
-19.-20.9.   |       14:00-17:00     |   ITAS, Karlsruhe |       ITAS for Future
+19.-20.9.   |       14:00-17:00     |   ITAS, Karlstraße 11, 76133 Karlsruhe |       ITAS for Future
 20.9.       |       ab 14 Uhr       |   Karlstraße      |       Parking Day
-20.-22.9.   |       ganztägig       |   demnächst               |       FFF Aktionscamp
+20.-22.9.   |       ganztägig       |   Zirkus Maccaroni, Karlsruhe               |       FFF Aktionscamp
 21.9.       |       16:30           |   Schauburg       |       Kinofilm "Tomorrow"
 24.9.       |       18:00           |   Kronenplatz     |       Müllsammelaktion
 26.9.       |       19:00           |   Lichthof im Haus des Evangelischen Oberkirchenrats, Blumenstr. 1-7, 76133 Karlsruhe   | Vortrag "Globale Abkühlung"
@@ -25,7 +25,8 @@ Anlässlich des Fridays for Future Generalstreik öffnet das ITAS seine Türen. 
 
 Bei einem „Open ITAS“ berichten Expertinnen und Experten für Technikfolgenabschätzung über ihre Forschungsarbeit und stellen sich der Diskussion. Die Themen reichen von nachhaltiger Mobilität und Ernährung über Fragen der Energiewende bis hin zur Gestaltung lebenswerter Städte und Alternativen zu der Erdöl-basierten Wirtschaft.
 
-Im Institut gibt es darüber hinaus die Möglichkeit, den eigenen CO2-Fußabdruck zu ermitteln, Nachhaltigkeits-Selbstexperimente zu konzipieren und mit vorhandenen Materialien Demo-Plakate zu basteln. 
+Im Institut gibt es darüber hinaus die Möglichkeit, den eigenen CO2-Fußabdruck zu ermitteln, Nachhaltigkeits-Selbstexperimente zu konzipieren und mit vorhandenen Materialien Demo-Plakate zu basteln.
+[Mehr Informationen auf der Website des ITAS](https://www.itas.kit.edu/itasforfuture)
 
 ## Parking Day
 In Karlsruhe machen am 20. September am  internationale Aktionstag Park(ing) Day setzen viele engagierten Menschen ein Zeichen gegen den erdrückenden Autoverkehr. Die Stadt gehört den Menschen!
