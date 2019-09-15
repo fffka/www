@@ -12,7 +12,7 @@ Datum       |       Uhrzeit         |       Ort         |       Veranstaltung
 ------------|-----------------------|-------------------|---------------------------
 19.-20.9.   |       14:00-17:00     |   ITAS, Karlstraße 11, 76133 Karlsruhe |       ITAS for Future
 20.9.       |       ab 14 Uhr       |   Karlstraße      |       Parking Day
-20.-22.9.   |       ganztägig       |   Zirkus Maccaroni, Karlsruhe               |       FFF Aktionscamp
+20.-22.9.   |       ganztägig       |   Zirkus Maccaroni, Karlsruhe               |       [FFF Aktionscamp](/event/aktionscamp/)
 21.9.       |       16:30           |   Schauburg       |       Kinofilm "Tomorrow"
 24.9.       |       18:00           |   Kronenplatz     |       Müllsammelaktion
 26.9.       |       19:00           |   Lichthof im Haus des Evangelischen Oberkirchenrats, Blumenstr. 1-7, 76133 Karlsruhe   | Vortrag "Globale Abkühlung"
