@@ -13,6 +13,7 @@ Datum       |       Uhrzeit         |       Ort         |       Veranstaltung
 19.-20.9.   |       14:00-17:00     |   ITAS, Karlstraße 11, 76133 Karlsruhe |       ITAS for Future
 20.9.       |       ab 14 Uhr       |   Karlstraße      |       Parking Day
 20.-22.9.   |       ganztägig       |   Zirkus Maccaroni, Karlsruhe               |       [FFF Aktionscamp](/event/aktionscamp/)
+22.9.       |       10:00           |   Baden-Airpark   |       „DER stille AUFSCHREI“
 21.9.       |       16:30           |   Schauburg       |       Kinofilm "Tomorrow"
 24.9.       |       18:00           |   Kronenplatz     |       Müllsammelaktion
 26.9.       |       19:00           |   Lichthof im Haus des Evangelischen Oberkirchenrats, Blumenstr. 1-7, 76133 Karlsruhe   | Vortrag "Globale Abkühlung"
@@ -33,6 +34,24 @@ In Karlsruhe machen am 20. September am  internationale Aktionstag Park(ing) Day
 
 ## Aktionscamp
 Von Fridays for Future organisiertes Aktionscamp im Stadtgebiet. Mehr Informationen kommen demnächst!
+
+## „DER stille AUFSCHREI“
+Organisiert von den Parents for Future Karlsruhe  
+Demo „DER stille AUFSCHREI“ gegen Flugverkehr am BADEN-AIRPARK – es kommt uns dabei auf die Wirkung einer möglichst stillen Präsenz an. Wir wünschen uns viele Teilnehmer, die mit Transparenten, Schildern und sonstigen Mitteln still auf die Klimaschädlichkeit des Flugverkehrs im Allgemeinen sowie auf die inakzeptable Subventionspolitik der Kommunal- und Landesregierung für das Verlustgeschäft BADEN-AIRPARK im Besonderen hinweisen.  
+**Info zu möglicher Anfahrt:**  
+
+- Ab Karlsruhe Bahnhof: 9:09 h mit RE 4719 (Umsteigen in Rastatt oder Baden-Baden)
+- Ab Rastatt Bahnhof: 9:30 h Bus X34 (stündlich zur halben Stunde)
+- Ab Baden-Baden: 9:35 h Bus 285 (stündlich um x:35)  
+
+**Anreise mit Bahn und Fahrrad:**  
+
+- Über Baden-Baden: Individuelle Anreise ab Karlsruhe mit dem RE um 08:11 Uhr nach Baden Baden. Treffpunkt in Baden Baden um 8:40 am Bahnhof. Von da aus Radtour mit dem ADFC Baden Baden zum Badenairpark.
+- Über Rastatt: Treffpunkt um 8.45 Uhr vor der Buchhandlung am Karlsruher Hauptbahnhof mit dem ADFC Karlsruhe. Abfahrt 9.09 Uhr mit RE 4719. Ab Rastatt Weiterfahrt bis Baden Airpark auf Radwegen (ca 14 km).
+
+Rückfahrt nach der Demo um 12h mit dem Rad nach Karlsruhe oder nach Rastatt und dann mit der Bahn zurück.
+Anmeldung hier [eveeno.com/Flughafendemo](https://eveeno.com/Flughafendemo)  
+[Die Forderungen der Parents for Future für den Baden Airpark](https://wechange.de/project/parentsforfuture-karlsruhe/file/forderungenfkb22092019pdf/download)
 
 ## Kinofilm "Tomorrow"
 Wie lässt sich die Welt retten? Denn dass die Welt gerettet werden muss, dessen sind sich der französische Aktivist Cyril Dion und Schauspielerin Mélanie Laurent („Inglourious Basterds“) sicher, nachdem ein Artikel in der Zeitschrift „Nature“ bei ihnen die Alarmglocken hat schrillen lassen. Darin wird eine Studie vorgestellt, deren Ergebnis den wahrscheinlichen Zusammenbruch unserer Zivilisation innerhalb der nächsten 40 Jahre vorhersagt. Um das zu verhindern, müsste aber der Großteil der Weltbevölkerung an einem Strang ziehen und aktiv mitwirken – doch bisher sehen Dion und Laurent nicht genügend Ansätze, die ein so massives Umdenken bei den Menschen in Bewegung setzen könnten. Also besuchen sie Experten aus Wirtschaft, Politik, Landwirtschaft und technischer Forschung, nehmen Initiativen und Projekte unter die Lupe und suchen nach Antworten auf die dringendsten Fragen unserer Zeit, um so einen möglichen Ausweg aus der festgefahrenen Situation zu konstruieren. 
