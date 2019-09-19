@@ -1,7 +1,7 @@
 ---
 title: "Aktionswoche"
 date: 2019-09-05
-rank: 2
+rank: 3
 eventDateStart: 2019-09-20
 eventDateEnd: 2019-09-27
 eventTime: "-"
