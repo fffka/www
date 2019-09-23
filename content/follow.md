@@ -8,5 +8,6 @@ Wo ihr Informationen über unsere Veranstaltungen erhaltet:
 * Auf unserer [Facebook Seite](https://www.facebook.com/fridaysforfuture.ka)
 * Auf unserer [Instagram Seite](https://www.instagram.com/fridaysforfuture_ka)
 * Auf unserer [Twitter Seite](https://www.twitter.com/FFF_Karlsruhe)
+* In unseren WhatsApp Gruppen [hier](https://chat.whatsapp.com/HqqMTSUYSix9FfDBqnk3Nf) bzw. [hier wenn die erste voll ist](https://chat.whatsapp.com/EYrMdITziWG3Rb1Yft7DI7)
 * In unserem [Online Kalender](https://www.fffka.de/kalender)
 
