@@ -3,7 +3,7 @@ title: "Aktionswoche"
 date: 2019-09-05
 rank: 3
 eventDateStart: 2019-09-20
-eventDateEnd: 2019-09-27
+eventDateEnd: 2019-09-27T23:59:59+02:00
 eventTime: "-"
 eventPlace: "-"
 summary: "Vom **20.09.19** bis zum **27.09.19** findet wie (wie in anderen vielen Städten) eine Fridays for Future Aktionswoche statt."
