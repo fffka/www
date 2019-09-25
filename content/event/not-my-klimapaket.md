@@ -3,7 +3,7 @@ title: "#NotMyKlimapaket"
 date: 2019-09-23
 rank: 1
 eventDateStart: 2019-09-23
-eventDateEnd: 2019-09-23 23:59:59
+eventDateEnd: 2019-09-23
 eventTime: "17:15 Uhr"
 eventPlace: "Vor der Schloßgartenhalle in Ettlingen"
 summary: "Wir demonstrieren bei der Regionalkonferenz der SPD (Olaf Scholz ist anwesend) gegen das Klimapaket der GroKo"

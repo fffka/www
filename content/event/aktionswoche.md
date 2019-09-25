@@ -17,6 +17,7 @@ Datum       |       Uhrzeit         |       Ort         |       Veranstaltung
 21.9.       |       16:30           |   Schauburg       |       Kinofilm "Tomorrow"
 24.9.       |       18:00           |   Kronenplatz     |       Müllsammelaktion
 26.9.       |       19:00           |   Lichthof im Haus des Evangelischen Oberkirchenrats, Blumenstr. 1-7, 76133 Karlsruhe   | Vortrag "Globale Abkühlung"
+27.9.       |       14:00           |   museum x, Karl Friedrich Straße 6, Karlsruhe | X for future
 27.9.       |       18:00           |   Kronenplatz     |       Critical Mass (Fahrrad-Demo)
 27.9.       |       20:00           |   Karlshochschule, Karlstr. 36-38, 76133 Karlsruhe         |       Podiumsdiskussion
 
@@ -60,6 +61,21 @@ Wie lässt sich die Welt retten? Denn dass die Welt gerettet werden muss, dessen
 ## Vortrag "Globale Abkühlung"
 Vortrag und Diskussion: Globale Abkühlung mittels 100% Erneuerbarer Energien und Kohlenstoffsenken mit Hans-Josef Fell, Mitglied des Bundestags 1998 bis 2013.
 Hans-Josef Fell ist der Autor des ursprünglichen Erneuerbare Energien-Gesetzes (EEG 2000)
+
+## X for future
+Wir öffnen das museum x für die Aktivist*innen der Karlsruher Fridays for Future-Bewegung!  
+Mit fünf Impulsvorträgen starten wir eine offene Diskussion um die Auswirkungen des von Menschen verursachten Klimawandels auf die Natur und damit rückwirkend wieder auf die Menschen.
+
+**Line-up:** 
+
+- Naturkatastrophe Klimawandel – Andreas Schäfer (Scientists for Future, Geophysikalisches Institut, KIT)
+- Vom Amazonas bis zum Schwarzwald - Biodiversität zählt – Hubert Höfer (Naturkundemuseum Karlsruhe)
+- xx Ressourceneffizienz - eine Frage der Nachhaltigkeit – Christian Satorius (Fraunhofer ISI)
+- Klimaschutz in Karlsruhe – Veit Moosmayer (KEK)
+- Ein kulturhistorischer Blick auf Eingriffe des Menschen in die Natur - warum macht das Sinn? – Julia Linke (Badisches Landesmuseum, Creative Collections)
+
+Dies ist die Auftaktveranstaltung zu einer Reihe von Veranstaltungen, bei denen das Badische Landesmuseum Schüler*innen, Student*innen und allen Interessierten Informationen und Austausch mit den jeweiligen Expert*innen anbietet. Kurze Impulsvorträge gehen in anschließenden Gesprächsrunden über.  
+Alle Interessierten sind zu dieser Reihe herzlich eingeladen!
 
 ## Podiumsdiskussion
 Diskussion mit Umweltbürgermeisterin Bettina Lisbach, Karlsruher Vertreter*innen von FridaysForFuture und ScientistsForFuture und Vetretern der Fraktionen von BÜNDNIS 90/Die GRÜNEN, CDU und SPD im Karlsruher Gemeinderat. 
