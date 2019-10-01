@@ -80,7 +80,7 @@ canonifyurls = true
   url = "https://www.instagram.com/fridaysforfuture_ka/"
 
 [[menu.links]]
-  weight = 1
+  weight = 2
   identifier = "twitter"
   name = "Twitter"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-twitter\"></i>"
@@ -102,6 +102,20 @@ canonifyurls = true
 
 [[menu.links]]
   weight = 5
+  identifier = "telegram-info"
+  name = "Telegram Info"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-telegram\"></i>"
+  url = "https://t.me/FridaysForFutureKA"
+
+[[menu.links]]
+  weight = 6
+  identifier = "telegram-discussion"
+  name = "Telegram Diskussion"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-telegram\"></i>"
+  url = " https://t.me/joinchat/IepmSEWBSPHH6Kug9v8Lcg"
+
+[[menu.links]]
+  weight = 7
   identifier = "calendar"
   name = "Kalender"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-calendar\"></i>"
