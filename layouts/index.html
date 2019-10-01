@@ -12,7 +12,7 @@
         <section class="postShorten-group main-content-wrap">
           {{ $paginator := .Paginate (where (where .Site.Pages "Type" "event") "IsNode" false) }}
           {{ range  (sort $paginator.Pages "Params.rank" "asc") }}
-            {{ if ge (time (.Param "eventDateEnd")).Unix $.Date.Unix}}
+            {{ if now.Before (time (.Param "eventDateEnd")) }}
               {{ .Render "summary" }}
             {{ end }}
           {{ end }}
