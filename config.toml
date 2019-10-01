@@ -112,7 +112,7 @@ canonifyurls = true
   identifier = "telegram-discussion"
   name = "Telegram Diskussion"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-telegram\"></i>"
-  url = " https://t.me/joinchat/IepmSEWBSPHH6Kug9v8Lcg"
+  url = "https://t.me/joinchat/IepmSEWBSPHH6Kug9v8Lcg"
 
 [[menu.links]]
   weight = 7
