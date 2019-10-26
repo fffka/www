@@ -119,7 +119,7 @@ canonifyurls = true
   identifier = "calendar"
   name = "Kalender"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-calendar\"></i>"
-  url = "https://www.fffka.de/kalender"
+  url = "https://fffka.de/kalender"
 
 [params]
   # Customize date format use to render blog post date, categories and other
