@@ -10,5 +10,6 @@ Sowohl auf Bundesebene als auch auf Kommunalebene hat Fridays for Future in Zusa
 ### **Aktuell:** Karlsruher Klimaschutzkonzept (PDF)
 Bis zum 26. Januar läuft noch die Kommentierungsphase zum **Karlsruher Klimaschutzkonzept**. 
 Nimm auch du an der Beteiligung teil:
+
 - [Kommentierungsvorlage](/Kommentierung.pdf)
 - [Offener Brief](/Kommentierung-brief.pdf)
