@@ -10,13 +10,37 @@
                {{ with .Params.coverCaption }}hasCoverCaption{{ end }}">
 
         <section class="postShorten-group main-content-wrap">
+
+          <article class="postShorten postShorten--thumbnailimg-{{ .Scratch.Get "thumbnailImagePosition" }}" itemscope itemType="http://schema.org/BlogPosting">
+            <div class="postShorten-wrap">
+              <a href="/kommentierung.pdf">
+                <div class="postShorten-thumbnailimg" style="float:left;">
+                  <img alt="" itemprop="image" src=""/>
+                  <i class="comment-alt"></i>
+                </div>
+              </a>
+              <div class="postShorten-header" style="float:left;">
+                <h1 class="postShorten-title" itemprop="headline">
+                  <a class="link-unstyled" href="/kommentierung.pdf">
+                    <span style="color:#1da64a">Aktuell:</span> Kommentierung des Karlsruher Klimaschutzkonzept
+                  </a>
+                </h1>
+              </div>
+              <div class="postShorten-excerpt" itemprop="articleBody" style="float:left;">
+                Bis zum 26. Januar läuft noch die Kommentierungsphase zum <b>Karlsruher Klimaschutzkonzept</b>.<br>
+                Nimm auch du an der Beteiligung teil:
+                <a href="/Kommentierung.pdf">Zur Kommentierung (pdf)</a>
+              </div>
+            </div>
+          </article>
+
           {{ $paginator := .Paginate (where (where .Site.Pages "Type" "event") "IsNode" false) }}
           {{ range  (sort $paginator.Pages "Params.rank" "asc") }}
             {{ if now.Before (time (.Param "eventDateEnd")) }}
               {{ .Render "summary" }}
             {{ end }}
           {{ end }}
-          {{ partial "pagination.html" . }}
+          <!--{{ partial "pagination.html" . }}-->
         </section>
         {{ partial "footer.html" . }}
       </div>
