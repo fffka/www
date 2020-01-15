@@ -28,15 +28,18 @@
               </div>
               <div class="postShorten-excerpt" itemprop="articleBody" style="float:left;">
                 Bis zum 26. Januar läuft noch die Kommentierungsphase zum <b>Karlsruher Klimaschutzkonzept</b>.<br>
-                Nimm auch du an der Beteiligung teil:
-                <a href="/Kommentierung.pdf">Zur Kommentierung (pdf)</a>
+                Nimm auch du an der Beteiligung teil:<br>
+                <ul>
+                <li><a href="/Kommentierung.pdf">Zu unserer Kommentierung (pdf)</a></li>
+                <li><a href="/Kommentierung-brief.pdf">Zu unserem offenen Brief (pdf)</a></li>
+                </ul>
               </div>
             </div>
           </article>
 
           {{ $paginator := .Paginate (where (where .Site.Pages "Type" "event") "IsNode" false) }}
           {{ range  (sort $paginator.Pages "Params.rank" "asc") }}
-            {{ if now.Before (time (.Param "eventDateEnd")) }}
+            {{ if (now.Before (time (.Param "eventDateEnd"))) }}
               {{ .Render "summary" }}
             {{ end }}
           {{ end }}
