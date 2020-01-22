@@ -59,6 +59,13 @@ canonifyurls = true
   url = "unsere-forderungen"
 
 [[menu.main]]
+  weight = 3
+  identifier = "students"
+  name = "Studierende"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-graduation-cap\"></i>"
+  url = "students"
+
+[[menu.main]]
   weight = 4
   identifier = "contact"
   name = "Kontakt"
