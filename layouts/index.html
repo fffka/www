@@ -10,7 +10,7 @@
                {{ with .Params.coverCaption }}hasCoverCaption{{ end }}">
 
         <section class="postShorten-group main-content-wrap">
-
+          <!--
           <article class="postShorten postShorten--thumbnailimg-{{ .Scratch.Get "thumbnailImagePosition" }}" itemscope itemType="http://schema.org/BlogPosting">
             <div class="postShorten-wrap">
               <a href="/kommentierung.pdf">
@@ -36,7 +36,7 @@
               </div>
             </div>
           </article>
-
+          -->
           {{ $paginator := .Paginate (where (where .Site.Pages "Type" "event") "IsNode" false) }}
           {{ range  (sort $paginator.Pages "Params.rank" "asc") }}
             {{ if (now.Before (time (.Param "eventDateEnd"))) }}
