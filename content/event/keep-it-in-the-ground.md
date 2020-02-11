@@ -9,7 +9,7 @@ eventPlace: "Kronenplatz / Bahnhof Weingarten"
 summary: "Fahrraddemo gegen die Ölbohrungen in Weingarten"
 ---
 
-Nach erfolgreichen Testbohrungen, will die Firma „Rhein Petroleum“ in Weingarten zukünftig täglich 30.000 Liter Öl abbauen!
+Nach erfolgreichen Testbohrungen, will die Firma „Rhein Petroleum“ in Weingarten zukünftig täglich 30.000 Liter Öl fördern!
 
 Wir sagen: Noch mehr Erdöl, nein Danke! Die Zeit der Fossilen Energie ist vorbei!
 
@@ -19,3 +19,5 @@ Alternativ könnt ihr euch auch um 13 Uhr am Bahnhof in Weingarten anschließen
 
 Wir freuen uns auf euch!
 Lasst uns gemeinsam ein starkes Zeichen für eine Energiewende setzen!✊🏼🌍
+
+-[Informationen zur Ölbohrung](/Weingarten-Informationen.pdf)
