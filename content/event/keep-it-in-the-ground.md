@@ -20,4 +20,4 @@ Alternativ könnt ihr euch auch um 13 Uhr am Bahnhof in Weingarten anschließen
 Wir freuen uns auf euch!
 Lasst uns gemeinsam ein starkes Zeichen für eine Energiewende setzen!✊🏼🌍
 
--[Informationen zur Ölbohrung](/Weingarten-Informationen.pdf)
+-[Informationen zur Ölbohrung](/Informationen-Weingarten.pdf)
