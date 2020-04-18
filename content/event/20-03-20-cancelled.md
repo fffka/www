@@ -1,7 +1,7 @@
 ---
 title: "Demo am 20.03. - ABGESAGT"
 date: 2020-03-14
-rank: 1
+rank: 2
 eventDateStart: 2020-03-14T23:59:59+02:00
 eventDateEnd: 2020-03-14T23:59:59+02:00
 eventTime: "-"
