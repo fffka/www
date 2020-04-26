@@ -31,19 +31,19 @@ Einfach Text kopieren, euren Namen eintragen und an eine der unten stehenden Adr
 Folgende Adressen könnt ihr verwenden ✉️
 
 Fraktionsvorsitzende:\
-CDU: tilman.pfannkuch@gr.karlsruhe.de\
-FDP: tom.hoyem@gr.karlsruhe.de\
-GRÜNE: zoe.mayer@gr.karlsruhe.de\
-LINKE: mathilde.goettel@gr.karlsruhe.de\
-SPD: parsa.marvi@gr.karlsruhe.de
+CDU: [tilman.pfannkuch@gr.karlsruhe.de](tilman.pfannkuch@gr.karlsruhe.de)\
+FDP: [tom.hoyem@gr.karlsruhe.de](tom.hoyem@gr.karlsruhe.de)\
+GRÜNE: [zoe.mayer@gr.karlsruhe.de](zoe.mayer@gr.karlsruhe.de)\
+LINKE: [mathilde.goettel@gr.karlsruhe.de](zoe.mayer@gr.karlsruhe.de)\
+SPD: [parsa.marvi@gr.karlsruhe.de](zoe.mayer@gr.karlsruhe.de)
 
 Oberbürgermeister Frank Mentrup:\
-dez1@karlsruhe.de 
+[dez1@karlsruhe.de](dez1@karlsruhe.de)
 
 Fraktionsadressen:\
-CDU: cdu@fraktion.karlsruhe.de\
-FDP: fdp@fraktion.karlsruhe.de\
-GRÜNE: gruene@fraktion.karlsruhe.de\
-KaL/ DiePartei: kal-diepartei@fraktion.karlsruhe.de\
-LINKE: dielinke@gemeinderat.karlsruhe.de\
-SPD: spd@fraktion.karlsruhe.de 
+CDU: [cdu@fraktion.karlsruhe.de](cdu@fraktion.karlsruhe.de)\
+FDP: [fdp@fraktion.karlsruhe.de](fdp@fraktion.karlsruhe.de)\
+GRÜNE: [gruene@fraktion.karlsruhe.de](gruene@fraktion.karlsruhe.de)\
+KaL/ DiePartei: [kal-diepartei@fraktion.karlsruhe.de](kal-diepartei@fraktion.karlsruhe.de)\
+LINKE: [dielinke@gemeinderat.karlsruhe.de](dielinke@gemeinderat.karlsruhe.de)\
+SPD: [spd@fraktion.karlsruhe.de](spd@fraktion.karlsruhe.de)
