@@ -2,7 +2,8 @@
 title: "Black Lives Matter"
 date: 2020-06-05T16:44:49+02:00
 rank: 1
-eventDateStart: 2020-06-06T14:00:00+02:00
+eventDateReplacement: "-"
+eventDateStart: "2021-06-06T16:44:49+02:00"
 eventDateEnd: "2021-06-06T16:44:49+02:00"
 eventTime: "-"
 eventPlace: "-"

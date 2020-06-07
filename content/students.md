@@ -6,7 +6,6 @@ Wir sind die **Hochschulgruppe** Students for Future Karlsruhe.
 Wir bemühen uns die Themen Klimaschutz und Klimawandel an die Karlsruher Campi zu bringen.
 
 Wir treffen uns **jeden Donnerstag um 19:00 auf Zoom**. Wenn du mitmachen möchtest kontaktiere uns per E-Mail. Komm gerne vorbei und mach mit!
-<!-- über [students@fffka.de](mailto:sudtents@fffka.de).\ -->
 
 **Kontakt:** [students@fffka.de](mailto:students@fffka.de)
 
