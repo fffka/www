@@ -3,7 +3,7 @@ title: "Der bunteste Klimastreik Karlsruhes"
 date: 2020-04-20
 rank: 1
 eventDateStart: 2020-04-20T23:59:59+02:00
-eventDateEnd: 2020-04-24T23:59:59+02:00
+eventDateEnd: 2021-04-24T23:59:59+02:00
 eventTime: "-"
 eventPlace: "-"
 summary: "Wie ihr wisst, können wir momentan leider nicht normal demonstrieren. Daher haben wir für diesen Freitag etwas ganz besonderes geplant. Hierfür brauchen wir eure Hilfe..."
