@@ -6,7 +6,7 @@ eventDateStart: 2020-06-25T23:59:59+02:00
 eventDateEnd: 2020-06-25T23:59:59+02:00
 eventTime: "-"
 eventPlace: "-"
-summary: ""
+summary: "Nach der erfolgreichen Kundgebung am Dienstag beim Hauptausschuss des Gemeinderates rufen wir jetzt zu einem bunten Aktionstag auf. Dabei richten wir uns gezielt an die SPD – denn ihre Stimmen sind die entscheidenden bei der Abstimmung im Gemeinderat am 30.6, bei der es auf nur 3 Stimmen ankommt!"
 ---
 Nach der erfolgreichen Kundgebung am Dienstag beim Hauptausschuss des Gemeinderates rufen wir jetzt zu einem bunten Aktionstag auf. Dabei richten wir uns gezielt an die SPD – denn ihre Stimmen sind die entscheidenden bei der Abstimmung im Gemeinderat am 30.6, bei der es auf nur 3 Stimmen ankommt!
 
