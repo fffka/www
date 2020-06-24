@@ -63,6 +63,9 @@ Einige Ideen dazu: Taktverdichtung zu Stoßzeiten, Ausbau des ÖPNV-Netzes zwis
 
 - **Will die SPD wirklich als die Partei, die immer noch nicht begriffen hat, dass wir in rasendem Tempo auf die Klimakatastrophe zusteuern, in den Oberbürgermeister-Wahlkampf starten?**
 
+
+___
+
 Quellen:
 - [A] Masterplan Verkehr für Hagsfeld: https://wabuka.files.wordpress.com/2020/04/masterplan_verkehr_hagsfeld.pdf
 - [B] Verkehrsgutachten: KfZ/24h Beutener Str.: ANF 2014: 9800, Planungsfall 1A: 9300, 9300/9800=94,9%  https://www.karlsruhe.de/b3/verkehr/umfahrung_hagsfeld/HF_sections/content/ZZoD58N5hP14fS/Verkehrsuntersuchung.pdf
