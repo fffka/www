@@ -20,11 +20,11 @@ Bei der Abstimmung des Gemeinderates werden wenige Stimmen die entscheidende Rol
 **Wir haben gute Chancen zu gewinnen! Dafür müssen wir jetzt aktiv werden & gemeinsam für eine radikale Mobilitätswende und Klimagerechtigkeit kämpfen.**
 Es wird eine Reihe von Aktionen geben:
 
-Am **Dienstag, den 23. Juni** tagt der Hauptausschuss im Rathaus. Kommt um **16 Uhr zur Kundgebung auf dem Marktplatz.**
++ ##### Am **Dienstag, den 23. Juni** tagt der Hauptausschuss im Rathaus. Kommt um **16 Uhr zur Kundgebung auf dem Marktplatz.**
 
-Am **Donnerstag, den 25. Juni** wird es einen Aktionstag geben, an dem wir speziell die SPD ins Auge fassen wollen: Wir rufen zur Telefondemo und kreativem Protest beim SPD-Büro (Am Künstlerhaus 30, Karlsruhe) auf (Kreidemalerei, Bannerdrops)!
++ ##### Am **Donnerstag, den 25. Juni** wird es einen Aktionstag geben, an dem wir speziell die SPD ins Auge fassen wollen: Wir rufen zur Telefondemo und kreativem Protest beim SPD-Büro (Am Künstlerhaus 30, Karlsruhe) auf (Kreidemalerei, Bannerdrops)!
 
-Am **Dienstag, 30. Juni,** tagt der Gemeinderat in der Gartenhalle. Es wird voraussichtlich eine große Demo ab **15:00 Uhr auf dem Festplatz** beim Kongresszentrum geben.
++ ##### Am **Dienstag, 30. Juni,** tagt der Gemeinderat in der Gartenhalle. Es wird voraussichtlich eine große Demo ab **15:00 Uhr auf dem Festplatz** beim Kongresszentrum geben.
 
 Nach wie vor gilt es die Abstandsregelungen einzuhalten und Mund-Nasen-Schutz zu tragen.
 
