@@ -123,6 +123,13 @@ canonifyurls = true
 
 [[menu.links]]
   weight = 7
+  identifier = "newsletter"
+  name = "Newsletter"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-envelope\"></i>"
+  url = "https://newsletter.fffka.de"
+
+[[menu.links]]
+  weight = 8
   identifier = "calendar"
   name = "Kalender"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-calendar\"></i>"
