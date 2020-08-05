@@ -12,7 +12,7 @@ Willy-Andreas-Allee 1
 
 ## Kontakt
 
-E-Mail: info@fridaysforfuture-ka.org
+E-Mail: karlsruhe@fridaysforfuture.de
 
 ## Haftung für Inhalte
 
