@@ -5,7 +5,9 @@ date: 2019-09-05T10:41:36+02:00
 Wir sind die **Hochschulgruppe** Students for Future Karlsruhe.  
 Wir bemühen uns die Themen Klimaschutz und Klimawandel an die Karlsruher Campi zu bringen.
 
-Wir treffen uns **jeden Donnerstag um 19:00 auf Zoom**. Wenn du mitmachen möchtest kontaktiere uns per E-Mail. Komm gerne vorbei und mach mit!
+Das machen wir zum Beispiel mit der "Public Climate School" jedes Semester. Bei der "Public Climate School" finden einem Tag oder einer Woche an der viele Verschiedene Vorträge oder andere Veranstaltungen zum Thema Klima statt.
+
+Wenn du mitmachen möchtest kontaktiere uns per E-Mail. Komm gerne vorbei und mach mit!
 
 **Kontakt:** [students@fffka.de](mailto:students@fffka.de)
 
