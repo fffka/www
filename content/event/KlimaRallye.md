@@ -3,8 +3,8 @@ title: "Klima-Rallye"
 date: "2020-08-26"
 rank: 1
 eventDateReplacement: "-"
-eventDateStart: "2021-08-26T23:59:59+02:00"
-eventDateEnd: 2021-08-26T23:59:59+02:00
+eventDateStart: "2020-11-26T23:59:59+02:00"
+eventDateEnd: 2020-11-26T23:59:59+02:00
 eventTime: "-"
 eventPlace: "Hardtwald"
 summary: "Du hast momentan frei, aber nichts läuft? Du brauchst Spannung, möchtest aber gleichzeitig etwas lernen? Genau für dich haben wir eine Klima-Rallye vorbereitet!"
