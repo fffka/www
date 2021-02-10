@@ -1,6 +1,12 @@
 Dies ist die Website von Fridays for Future Karlsruhe.  
 Für unsere Website nutzen wir [hugo](https://gohugo.io/) - für mehr Infos schaut euch die Doku auf der Seite an.
 
+## Initialisierung
+Das Projekt benutzt Submodule. Um hugo richtig verwenden zu können sollten diese zu Beginn mit folgendem Befehl geklont werden:
+```
+git submodule update
+```
+
 ## Neue Veranstaltung anlegen
 Terminal im Hauptverzeichnis des Repos öffnen
 ```
