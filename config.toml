@@ -121,12 +121,12 @@ canonifyurls = true
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-telegram\"></i>"
   url = "https://t.me/joinchat/IepmSEWBSPHH6Kug9v8Lcg"
 
-[[menu.links]]
-  weight = 7
-  identifier = "newsletter"
-  name = "Newsletter"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-envelope\"></i>"
-  url = "https://newsletter.fffka.de"
+#[[menu.links]]
+#  weight = 7
+#  identifier = "newsletter"
+#  name = "Newsletter"
+#  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-envelope\"></i>"
+#  url = "https://newsletter.fffka.de"
 
 [[menu.links]]
   weight = 8
