@@ -4,6 +4,10 @@ Für unsere Website nutzen wir [hugo](https://gohugo.io/) - für mehr Infos scha
 ## Initialisierung
 Das Projekt benutzt Submodule. Um hugo richtig verwenden zu können sollten diese zu Beginn mit folgendem Befehl geklont werden:
 ```
+git submodule init
+```
+Und mit dem folgenden Befehl die entsprechenden Daten geklont werden.
+```
 git submodule update
 ```
 
