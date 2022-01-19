@@ -5,11 +5,6 @@ date: 2019-09-05T10:53:21+02:00
 
 Angaben gemäß § 5 TMG
 
-Samuel Teuber
-für die Fridays for Future Ortsgruppe Karlsruhe
-Willy-Andreas-Allee 1
-76131 Karlsruhe
-
 ## Kontakt
 
 E-Mail: karlsruhe@fridaysforfuture.de
