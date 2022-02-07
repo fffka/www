@@ -5,6 +5,11 @@ date: 2019-09-05T10:53:21+02:00
 
 Angaben gemäß § 5 TMG
 
+Marco Wagner
+für die Fridays for Future Ortsgruppe Karlsruhe
+Hertzstraße 116
+76187 Karlsruhe
+
 ## Kontakt
 
 E-Mail: karlsruhe@fridaysforfuture.de
