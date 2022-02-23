@@ -7,7 +7,7 @@ Wir bemühen uns die Themen Klimaschutz und Klimawandel an die Karlsruher Campi 
 
 Das machen wir zum Beispiel mit der "Public Climate School" jedes Semester. Bei der "Public Climate School" finden einen Tag oder eine Woche lang viele verschiedene Vorträge oder andere Veranstaltungen zum Thema Klima statt.
 
-Wenn du mitmachen möchtest kontaktiere uns per E-Mail. Komm gerne vorbei und mach mit!
+Wenn du mitmachen möchtest kontaktiere uns per E-Mail.
 
 **Kontakt:** [students@fffka.de](mailto:students@fffka.de)
 
