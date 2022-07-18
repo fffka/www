@@ -6,5 +6,3 @@ draft: false
 Wir sind sowohl auf den Social Media Plattformen (links) als auch per Mail unter [karlsruhe@fridaysforfuture.de](mailto:karlsruhe@fridaysforfuture.de) erreichbar.
 
 Unsere E-Mail Adresse für Presseanfragen lautet: [presse@fffka.de](mailto:presse@fffka.de).
-
-TestTestTest
