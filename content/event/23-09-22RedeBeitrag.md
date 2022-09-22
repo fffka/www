@@ -3,7 +3,7 @@ title: "Redebeitrag von von Andrea Cardoso auf dem globalen Klimastreik am 23.09
 date: 2022-09-21
 rank: 2
 eventDateStart: 2022-09-23T11:30:00+02:00
-eventDateEnd: 2022-09-23T17:00:00+02:00
+eventDateEnd: 2022-09-23T23:59:59+02:00
 eventTime: "11:30"
 eventPlace: "CityPark Karlsruhe"
 summary: "**Für alle die der Rede von Andrea Cardoso nicht gant folgen konnten haben wir sie hier sowohl auf Englisch als auch ins Deutsche übersetzt**"
