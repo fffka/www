@@ -1,6 +1,6 @@
 ---
-title: "Redebeitrag von von Andrea Cardoso auf dem Globaler Klimastreik am 23.09.2022"
-date: 2022-08-23
+title: "Redebeitrag von von Andrea Cardoso auf dem globalen Klimastreik am 23.09.2022 in Karlsruhe"
+date: 2022-09-21
 rank: 2
 eventDateStart: 2022-09-23T11:30:00+02:00
 eventDateEnd: 2022-09-23T17:00:00+02:00
@@ -26,11 +26,11 @@ Now the new government is promoting the energy transitions. But for the communit
 
 My students and the communities in Colombia recognize at least three types of transitions:  
 
-1) The first one: Stop coal mining!, in order to protect the life of local populations and the ecosystem, it should include the reparation of the damages caused by coal mining  
+  The first one: Stop coal mining!, in order to protect the life of local populations and the ecosystem, it should include the reparation of the damages caused by coal mining  
 
-2) Second, electricity for all! This is energy democratization, aimed at fighting energy poverty and inequality of indigenous and peasant communities  
+  Second, electricity for all! This is energy democratization, aimed at fighting energy poverty and inequality of indigenous and peasant communities  
 
-3) Third, a broad and comprehensive transition that transcends the energy field and includes different dimensions such as gender equality  
+  Third, a broad and comprehensive transition that transcends the energy field and includes different dimensions such as gender equality  
 
 What people of the North needs to learn about the South is the transition must be designed and structured according to the conditions of each territory, community, and society as a whole.  
 
@@ -63,11 +63,11 @@ Jetzt fördert die neue Regierung die Energiewende. Aber für die Gemeinden bede
 
 Meine Studenten und die Gemeinden in Kolumbien brauchen mindestens drei Arten von Übergängen:  
 
-1) Die erste: Stoppt den Kohleabbau!, um das Leben der lokalen Bevölkerung und das Ökosystem zu schützen, sollte dies die Wiedergutmachung der durch den Kohleabbau verursachten Schäden beinhalten  
+  Die erste: Stoppt den Kohleabbau!, um das Leben der lokalen Bevölkerung und das Ökosystem zu schützen, sollte dies die Wiedergutmachung der durch den Kohleabbau verursachten Schäden beinhalten  
 
-2) Zweitens: Strom für alle! Dies ist eine Demokratisierung der Energieversorgung, die darauf abzielt, die Energiearmut und Ungleichheit der indigenen und bäuerlichen Gemeinschaften zu bekämpfen  
+  Zweitens: Strom für alle! Dies ist eine Demokratisierung der Energieversorgung, die darauf abzielt, die Energiearmut und Ungleichheit der indigenen und bäuerlichen Gemeinschaften zu bekämpfen  
 
-3) Drittens, ein breiter und allumfassender Übergang, der über den Energiebereich hinausgeht und verschiedene Dimensionen wie die Gleichstellung der Geschlechter einschließt.  
+  Drittens, ein breiter und allumfassender Übergang, der über den Energiebereich hinausgeht und verschiedene Dimensionen wie die Gleichstellung der Geschlechter einschließt.  
 
 
 Was die Menschen im Globalen Norden vom Süden lernen müssen, ist, dass der Übergang entsprechend den Bedingungen jedes Gebiets, jeder Gemeinschaft und der Gesellschaft als Ganzes gestaltet und strukturiert werden muss.  
