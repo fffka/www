@@ -6,7 +6,7 @@ eventDateStart: 2022-09-23T23:59:59+02:00
 eventDateEnd: 2023-02-28T23:59:59+02:00
 eventTime: "11:30"
 eventPlace: "CityPark Karlsruhe"
-summary: "**Welche technischen Ansätze sind eigentlich sinnvoll, um den Klimawandel zu bekämpfen - und über welche braucht man gar nicht weiter reden? Darüber spricht Volker von den Scientists For Future Karlsruhe.**"
+summary: "**Welche technischen Ansätze sind eigentlich sinnvoll, um den Klimawandel zu bekämpfen - und über welche braucht man gar nicht weiter reden? Darüber sprach Volker von den Scientists For Future Karlsruhe.**"
 ---
 
 
