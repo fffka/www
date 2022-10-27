@@ -2,7 +2,7 @@
 title: "Redebeiträge vom vergangenen Klimastreik - Olli von FFF"
 date: 2022-10-27
 rank: 1
-eventDateStart: 2022-10-27T23:59:59+02:00
+eventDateStart: 2022-09-23T23:59:59+02:00
 eventDateEnd: 2023-02-28T23:59:59+02:00
 eventTime: "11:30"
 eventPlace: "CityPark Karlsruhe"
