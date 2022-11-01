@@ -1,5 +1,5 @@
 ---
-title: "Redebeiträge vom vergangenen Klimastreik - Antikapitalistisches Klimatreffen"
+title: "Redebeiträge vom vergangenen Klimastreik - Maik vom Antikapitalistischen Klimatreffen"
 date: 2022-10-27
 rank: 3
 eventDateStart: 2022-09-23T23:59:59+02:00
