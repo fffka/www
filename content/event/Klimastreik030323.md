@@ -1,6 +1,6 @@
 ---
 title: "Klimastreik 03. März 2023"
-date: 2023-03-03
+date: 2023-02-27
 rank: 1
 eventDateStart: 2023-02-27T22:00:00+02:00
 eventDateEnd: 2023-04-01T23:59:59+02:00
